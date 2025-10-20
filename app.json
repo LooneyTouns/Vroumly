@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Vroumly",
+    "slug": "vroumly",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait"
+  }
+}
